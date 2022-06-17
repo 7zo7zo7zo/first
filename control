@@ -1,0 +1,9 @@
+Package: com.7zo.first
+Name: First
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An example tweak
+Maintainer: 7zo 
+Author: 7zo 
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
